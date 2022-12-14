@@ -92,3 +92,14 @@ a, a:visited{
     font-size: 2rem;
     padding-bottom: 0.5rem;
 }
+
+.box{
+    display: flex;
+    position: relative;
+}
+
+.jumbo-img{
+    position: absolute;
+    left: 18rem;
+    width: fit-content;
+}
