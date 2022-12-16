@@ -82,12 +82,32 @@ h1, h2, h3, h4{
 	margin-left: -2.5rem;
 }
 
+.ml3 {
+	margin-left: 3rem;
+}
+
 .ml5{
 	margin-left: 5rem;
 }
 
+.ml6{
+	margin-left: 6.5rem;
+}
+
+.mr4 {
+	margin-right: 4rem;
+}
+
 .pl1 {
 	padding-left: 1rem;
+}
+
+.pl1{
+	padding-left: 1rem;
+}
+
+.pt4{
+	padding-top: 4rem;
 }
 
 

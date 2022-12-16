@@ -126,6 +126,11 @@ nav{
 
 /* MAIN */
 
+hr {
+    border: 1px solid rgb(211, 211, 214);
+    width: 20%;
+}
+
 /* Section 1 */
 .jumbotron{
     background-color: rgb(180, 208, 231);
@@ -208,14 +213,9 @@ nav{
     border-bottom: white;
 }
 
-hr{
-    border: 1px solid rgb(211, 211, 214);
-    width: 20%;
-}
-
 /* Section 4 */
 
-.no-border {
+.no-border{
     border: none;
 }
 
@@ -242,6 +242,7 @@ hr{
 .square-col{
     overflow: auto;
     height: calc(100vw / 3);
+    background-color: rgb(245, 245, 245);
 }
 
 .designit{
@@ -276,3 +277,23 @@ hr{
 .channel{
     background-color: hsl(49deg 100% 59%);
 }
+
+.row.hearst{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12rem;
+    height: calc(100vw / 6);
+}
+
+.row.hearst h2{
+    color: rgb(97, 8, 43);
+    font-size: 2.5rem;
+}
+
+.row.hearst a{
+    margin-top: 0;
+    border: 1px solid white;
+}
+
+/* Section 6 */
