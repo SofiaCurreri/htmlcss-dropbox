@@ -297,3 +297,11 @@ hr {
 }
 
 /* Section 6 */
+.long-hr{
+    width: 100%;
+}
+
+/* FOOTER */
+footer{
+    background-color: black;
+}
