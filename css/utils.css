@@ -110,6 +110,9 @@ h1, h2, h3, h4{
 	padding-top: 4rem;
 }
 
+.pb4{
+	padding-bottom: 4rem;
+}
 
 .fs1{
 	font-size: 1.3rem;
@@ -121,4 +124,6 @@ h1, h2, h3, h4{
 }
 
 .lh4{
-	line-height: 4rem;}
+	line-height: 4rem;
+}
+

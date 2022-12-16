@@ -304,4 +304,29 @@ hr {
 /* FOOTER */
 footer{
     background-color: black;
+    color: white;
+}
+
+footer ul li{
+    list-style: none;
+    line-height: 2.5rem;
+}
+
+footer ul{
+    margin-top: 4rem;
+}
+
+footer a{
+    text-decoration: none;
+    color: currentColor;
+}
+
+footer hr{
+    width: 10%;
+    border: 1px solid rgb(151, 151, 151);
+}
+
+.footer .container .gray.mt2{
+    display: flex;
+    justify-content: flex-start;
 }
