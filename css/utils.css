@@ -15,6 +15,14 @@
 	width: 30%;
 }
 
+.w40{
+	width: 40%;
+}
+
+.w60{
+	width: 60%;
+}
+
 .w70 {
 	width: 70%;
 }
@@ -27,8 +35,16 @@
 	margin-bottom: -0.5rem;
 }
 
+.mb1 {
+	margin-bottom: 1.5rem;
+}
+
 .mb2{
 	margin-bottom: 2rem;
+}
+
+.mb4{
+	margin-bottom: 4rem;
 }
 
 .mt1{
@@ -43,14 +59,18 @@
 	margin-top: 4rem;
 }
 
+.ml05{
+	margin-left: 0.5rem;
+}
+
 .ml2{
 	margin-left: -2.5rem;
 }
 
-.pl1{
-	padding-left: 1rem;
-}
-
 .ml5{
 	margin-left: 5rem;
+}
+
+.pl1 {
+	padding-left: 1rem;
 }
