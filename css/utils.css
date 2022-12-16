@@ -70,6 +70,10 @@ h1, h2, h3, h4{
 	margin-top: 6rem;
 }
 
+.mt10{
+	margin-top: 10rem;
+}
+
 .ml05{
 	margin-left: 0.5rem;
 }
@@ -89,8 +93,9 @@ h1, h2, h3, h4{
 
 .fs1{
 	font-size: 1.3rem;
+	width: 100%;
 }
 
-.fs3{
-	font-size: 3rem;
+.fs2{
+	font-size: 2rem;
 }

@@ -34,6 +34,11 @@ body{
     flex-direction: row;
 }
 
+.box.distribute{
+    display: flex;
+    justify-content: space-between;
+}
+
 .box {
     display: flex;
     position: relative;
@@ -214,3 +219,4 @@ hr{
     border: none;
 }
 
+/* Section 4 */
